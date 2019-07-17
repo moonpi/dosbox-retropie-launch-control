@@ -4,6 +4,11 @@ Scripts to launch DOS programs on RetroPie using DOSBOX.
 # Use
 Copy these files into your roms folder inside your RetroPie folder
 
+<code>
+  cd /home/pi/RetroPie/roms
+  git clone https://github.com/moonpi/dosbox-retropie-launch-control
+  </code>
+
 Then place the DOS game files in the pcdata folder.
 
 To display the controls, pick the +Contols option on the Emulation Station menu.
