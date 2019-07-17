@@ -1,0 +1,74 @@
+﻿Buffalo SNES Controller 1
+button	Map			Default Keyboard
+A	"stick_0 button 0"	Up	
+B	"stick_0 button 1"	Alt-Right
+X	"stick_0 button 2"	Ctrl-Right
+Y	"stick_0 button 3"  	Space
+L 	"stick_0 button 4" 	Q
+R	"stick_0 button 5"	W
+Up	"stick_0 axis 1 0" 	Up
+Down	"stick_0 axis 1 1" 	Down	
+Left 	"stick_0 axis 0 0"	Left
+Right	"stick_0 axis 0 1"	Right
+Start	"stick_0 button 7"	Enter
+Select  "stick_0 button 6"	Esc	
+
+Math and Word Rescue
+Action			KeyBoard	Controller
+Jump -   		Ctrl,   ^	B A ^
+Slime			Space, Alt	Y X
+Speed up  		+		
+slow down 		-
+sound 			S		
+help 			H		
+Menu 			Esc		Select
+Quit 			Q		L
+			Enter		Start
+Show Word (Word Rescue)	W		R
+Can Configure
+
+Tomb
+Action	Keyboard	Controller
+Jump - 	Space		A B	
+Spear - F		X Y
+	Q		L
+	Enter		Start
+	Esc		Select
+	Y		R
+Can configure
+
+Electroman
+Action	Keyboard	Controller
+Jump - 	up arrow	A B
+shoot 	space		X Y
+	Q		L
+	Enter		Start
+	Esc		Select
+	Y		R
+
+
+Black Cauldron
+Key Action			Controller
+F1 - Help		
+F2 - Sound on/off
+F3 - Action: New object		Y
+F4 - Action: Use object		X
+F5 - Save game			L
+F6 - Action: Do			B
+F7 - Restore (load) game	
+F8 - Action: Look		A
+F9 - Restart game
+F10 - Change game speed
+Tab - Inventory			R
+Ctrl & Z - Quit game           Select
+
+Heartlight - Not working
+Action		Keyboard	Controller
+Exit Game	Alt-X		L R
+Restart		Esc		X
+Quit to Title	F10		Select
+Music		F6		Y
+Sound		F7		A
+		Space		B
+		Enter		Start
+
