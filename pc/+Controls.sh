@@ -1,2 +1,2 @@
 ﻿#!/bin/bash
-/opt/retropie/emulators/dosbox/bin/dosbox -conf "/home/pi/RetroPie/roms/pcdata/controls/contols/contol.conf" -c  "mount c ~/RetroPie/roms/pcdata" -c "c:" -c "cd controls" -c "controls.com" 
+/opt/retropie/emulators/dosbox/bin/dosbox -conf "/home/pi/RetroPie/roms/pcdata/controls/contol/contol.conf" -c  "mount c ~/RetroPie/roms/pcdata" -c "c:" -c "cd controls" -c "controls.com" 
